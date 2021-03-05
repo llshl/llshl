@@ -1,5 +1,4 @@
-# Welcome to my Github
-### Summary
+# Summary
 - Department of Electronics Engineering
 - Embedded System
 - Web
