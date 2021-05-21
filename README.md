@@ -1,6 +1,6 @@
 # Summary
 - Department of Electronics Engineering
-- Web Backend
+- Java developer
 - Embedded System
    
 - <https://llshl.github.io/PORTFOLIO/>
