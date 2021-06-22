@@ -2,8 +2,7 @@
 - Department of Electronics Engineering
 - Java developer
 - Embedded System
-   
-- <https://llshl.github.io/PORTFOLIO/>
+  
   
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llshl&layout=demo)](https://github.com/llshl/github-readme-stats)
