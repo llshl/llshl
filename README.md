@@ -1,7 +1,7 @@
 # Summary
-- Department of Electronics Engineering
-- Java developer
-- Embedded System
+- :green_book: https://llshl.tistory.com
+- :dart: Java developer
+- :coffee: Embedded System
   
   
   
