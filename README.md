@@ -1,7 +1,6 @@
 # Summary
-- :green_book: https://llshl.tistory.com
 - :dart: Java developer
-- :coffee: Embedded System
+- :green_book: https://llshl.tistory.com
   
   
   
