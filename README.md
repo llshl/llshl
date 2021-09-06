@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HaDong%20Lee&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Seung Hyeon%20Lee&fontSize=90)
 
 <h3 align="center"> 👋 Hi there,</h3>
 <p align="center">
-I'm SeungHyeon Lee, a Backend developer. 🌱 <br>
+I'm Seung Hyeon Lee, a Backend developer. 🌱 <br>
 </p>
 
 <h3 align="center">✨ Tech Stack ✨ </h3>
