@@ -1,6 +1,6 @@
 # Summary
-:dart: Java developer   
-:green_book: https://llshl.tistory.com
+:dart: Java developer :dart:   
+:green_book: https://llshl.tistory.com :green_book:
   
   
 :books: Tech Stacks :books:   
