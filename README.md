@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/typescript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black"> 
 <img src="https://img.shields.io/badge/express-0769AD?style=for-the-badge&logo=express&logoColor=white"> 
 <img src="https://img.shields.io/badge/mongoDB-61DAFB?style=for-the-badge&logo=mongoDB&logoColor=black">
-<img src="https://img.shields.io/badge/jest-4FC08D?style=for-the-badge&logo=jest&logoColor=white">
+<img src="https://img.shields.io/badge/jest-4FC08D?style=for-the-badge&logo=jest&logoColor=red">
 <img src="https://img.shields.io/badge/git-181717?style=for-the-badge&logo=git&logoColor=white"> 
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
