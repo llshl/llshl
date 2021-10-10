@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-<img src="https://img.shields.io/badge/typescript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=white"> 
+<img src="https://img.shields.io/badge/typescript-0000FF?style=for-the-badge&logo=typescript&logoColor=white"> 
 <img src="https://img.shields.io/badge/express-0769AD?style=for-the-badge&logo=express&logoColor=white"> 
 <img src="https://img.shields.io/badge/mongoDB-61DAFB?style=for-the-badge&logo=mongoDB&logoColor=white">
 <img src="https://img.shields.io/badge/jest-4FC08D?style=for-the-badge&logo=jest&logoColor=white">
