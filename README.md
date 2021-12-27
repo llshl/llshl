@@ -15,6 +15,5 @@
 <img src="https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/aws-FF8C00?style=for-the-badge&logo=aws&logoColor=white">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llshl&layout=demo)](https://github.com/llshl/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llshl&layout=demo&hide=css,html)](https://github.com/llshl/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llshl&layout=demo&hide=css)](https://github.com/llshl/github-readme-stats)
 [![llshl's github stats](https://github-readme-stats.vercel.app/api?username=llshl)](https://github.com/llshl/github-readme-stats)
